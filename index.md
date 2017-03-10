@@ -1,3 +1,4 @@
+<h1 class="project-name">IASC-2P02</h1>
 <h1>Academic Blog Post</h1>
 <h2>By: Nicole Boccia</h2>
 <body>
