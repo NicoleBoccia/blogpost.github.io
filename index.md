@@ -10,6 +10,6 @@ introduced new tools and promoted a many-to-many model of relationships among pr
 </p>
 </body>
 <h2>Text analysis using Voyant Tools</h2>
-<iframe style="width: 100%; height: 800px" src="//http://voyant-tools.org/?corpus=c1da8608e8b9eca66ea77373674eb3a6"></iframe>
+<iframe style="width: 100%; height: 800px" src="http://voyant-tools.org/?corpus=c1da8608e8b9eca66ea77373674eb3a6&view=Cirrus"></iframe>
 
 
