@@ -1,4 +1,3 @@
-<h1 class="project-name">IASC-2P02</h1>
 <h1>Academic Blog Post</h1>
 <h2>By: Nicole Boccia</h2>
 <body>
@@ -31,5 +30,5 @@ Raffaghelli, Juliana E. "Different Views on Digital Scholarship: Separate Worlds
 <p>
 Text Analysis. Digital image. Voyant Tools. Stéfan Sinclair & Geoffrey Rockwell, 8 Mar. 2017. 		Web. 8 Mar. 2017.
 </p>
-
+<a href="https://github.com/axchristie/IASC-2P02">Back to home page</a>
 
