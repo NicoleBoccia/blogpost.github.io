@@ -14,15 +14,20 @@ introduced new tools and promoted a many-to-many model of relationships among pr
 <h2>Works Cited</h2>
 <p>
 Day, George S. "Adapting to Fast-Changing Arkets and Technologies." California Management 		Review, vol. 58, no. 4, 2016, EBSCOhost. Web. 8 Mar. 2017.
-
+</p>
+<p>
 McPherson, Tara. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., 		2012. Web. 8 Mar. 2017.
-
+</p>
+<p>
 Moretti, Franco. GRAPHS, MAPS, TREES Abstract Models for Literary History—1. N.p.: New 		left review , 2003. Print. Web 8. Mar. 2017.
-
+</p>
+<p>
  Poole, Alex H. "The Conceptual Ecology of Digital Humanities." Journal of Documentation, 		vol. 73, no. 1, 2017, EBSCOhost. Web. 8 Mar. 2017.
-
+</p>
+<p>
 Raffaghelli, Juliana E. "Different Views on Digital Scholarship: Separate Worlds or Cohesive 		Research Field?." Research in Learning Technology, Vol 24, 2016. EBSCOhost. Web. 7 		Mar. 2017.
-
+</p>
+<p>
 Text Analysis. Digital image. Voyant Tools. Stéfan Sinclair & Geoffrey Rockwell, 8 Mar. 2017. 		Web. 8 Mar. 2017.
 </p>
 
