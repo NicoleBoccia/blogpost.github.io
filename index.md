@@ -30,5 +30,5 @@ Raffaghelli, Juliana E. "Different Views on Digital Scholarship: Separate Worlds
 <p>
 Text Analysis. Digital image. Voyant Tools. Stéfan Sinclair & Geoffrey Rockwell, 8 Mar. 2017. 		Web. 8 Mar. 2017.
 </p>
-<a href=" https://nicoleboccia.github.io/IASC2P02.github.io/">Back to home page</a>
+<a href=" https://nicoleboccia.github.io/IASC2P02.github.io/">Back to home page</a> 
 
