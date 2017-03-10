@@ -1,4 +1,4 @@
-<head>Academic Blog Post</head>
+<h1>Academic Blog Post</h1>
 <h2>By: Nicole Boccia</h2>
 <body>
 <p>We live in a world that is constantly spinning, shifting, and changing as a result of society always wanting to evolve and communicate. The tools we use to communicate are always changing such as literature. Books and written works are an extension of the human brain, what we think, remember, or make up can be written down because of the tools we have. Things such as literature and genre changed because of a collective rather than individual conclusion as discussed by Franco Moretti. This argument did not touch on the digital age or any means of online scholarly communication. Moretti’s argument can be extended from the shift in literature to the shifting digital age as a result of a collective change. This shift in digital scholarly communication can be supported by a visualization of the text using “Voyant Tools”, McPhersons idea of society reorganizing due to pressures in the political field, Poole’s perspective on tools brought by the digital humanities, and Day’s idea that success of any platform depends on various people.</p>
@@ -11,5 +11,19 @@ introduced new tools and promoted a many-to-many model of relationships among pr
 </body>
 <h2>Text analysis using Voyant Tools</h2>
 <iframe style="width: 100%; height: 800px" src="http://voyant-tools.org/?corpus=c1da8608e8b9eca66ea77373674eb3a6&view=Cirrus"></iframe>
+<h2>Works Cited</h2>
+<p>
+Day, George S. "Adapting to Fast-Changing Arkets and Technologies." California Management 		Review, vol. 58, no. 4, 2016, EBSCOhost. Web. 8 Mar. 2017.
+
+McPherson, Tara. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., 		2012. Web. 8 Mar. 2017.
+
+Moretti, Franco. GRAPHS, MAPS, TREES Abstract Models for Literary History—1. N.p.: New 		left review , 2003. Print. Web 8. Mar. 2017.
+
+ Poole, Alex H. "The Conceptual Ecology of Digital Humanities." Journal of Documentation, 		vol. 73, no. 1, 2017, EBSCOhost. Web. 8 Mar. 2017.
+
+Raffaghelli, Juliana E. "Different Views on Digital Scholarship: Separate Worlds or Cohesive 		Research Field?." Research in Learning Technology, Vol 24, 2016. EBSCOhost. Web. 7 		Mar. 2017.
+
+Text Analysis. Digital image. Voyant Tools. Stéfan Sinclair & Geoffrey Rockwell, 8 Mar. 2017. 		Web. 8 Mar. 2017.
+</p>
 
 
