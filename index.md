@@ -10,7 +10,7 @@ introduced new tools and promoted a many-to-many model of relationships among pr
 </p>
 </body>
 <h2>Text analysis using Voyant Tools</h2>
-<iframe style="width: 100%; height: 800px" src="http://voyant-tools.org/?corpus=c1da8608e8b9eca66ea77373674eb3a6&view=Cirrus"></iframe>
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=c1da8608e8b9eca66ea77373674eb3a6'></iframe>
 <h2>Works Cited</h2>
 <p>
 Day, George S. "Adapting to Fast-Changing Arkets and Technologies." California Management 		Review, vol. 58, no. 4, 2016, EBSCOhost. Web. 8 Mar. 2017.
