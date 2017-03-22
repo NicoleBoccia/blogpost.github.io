@@ -1,34 +1,15 @@
-<h1>Academic Blog Post</h1>
-<h2>By: Nicole Boccia</h2>
-<body>
-<p>We live in a world that is constantly spinning, shifting, and changing as a result of society always wanting to evolve and communicate. The tools we use to communicate are always changing such as literature. Books and written works are an extension of the human brain, what we think, remember, or make up can be written down because of the tools we have. Things such as literature and genre changed because of a collective rather than individual conclusion as discussed by Franco Moretti. This argument did not touch on the digital age or any means of online scholarly communication. Moretti’s argument can be extended from the shift in literature to the shifting digital age as a result of a collective change. This shift in digital scholarly communication can be supported by a visualization of the text using “Voyant Tools”, McPhersons idea of society reorganizing due to pressures in the political field, Poole’s perspective on tools brought by the digital humanities, and Day’s idea that success of any platform depends on various people.</p>
-<p>	Using “Voyant Tools” you are able to enter text, then are shown the most prominent words in the text. For Moretti’s text some of the most used words are years, genre, generation, history, movement and process. Nothing about scholarly online communication, the digital age, or digital shifts are mentioned, even though Moretti’s argument could have been taken in that direction. The text focused on how, “the novel “becomes a necessity of life..and the ‘extensive’ reading of the novel” (Moretti, 2003). Moretti discussed how at one time only five novels per year were released, this gradually changed to a novel released every two weeks. Going from five novels a year, to one novel every two weeks kept people motivated to read, it also kept the books in demand. With McPhersons idea of society reorganizing due to pressures in the political field, Moretti’s discussion could have been continued into the digital forms of communication and expectations. Tara focuses on the shifts in technology and communication as a result from cultural forces, and politics. For example Tara says that, “all technological change is deeply situated within cultural forces” (Tara, 2012) and that, “very few audiences who care about one lens have much patience or tolerance for the other” (Tara, 2012). This can be related to Moretti and how genre and literature changed because of the constant demand for new books. When reading one genre you know what to expect out of other books that are of the same genre. With Tara, Morettis argument could have been extended to the fact that certain digital tools of communication such as film, and film genre give the audience a sense of entitlement because they know what to expect. They know what to expect because of previous films of similar genre. For example horror movies are similar, there is a killer and victims; however in different horror movies the storyline and characters are different. Films, social media, and other forms of digital communication allow users to interact but these interactions, and the way that certain topics, genres, and expectations are expressed can be effected by demand, relevancy and politics.</p>
-<p>	There is no limit as to what can be put in literature, but where can you store the final product because paper does not last forever. In Moretti’s article he discusses the sudden rapid manufacturing of books, and a bigger market to sell to, “now, however, the growth of the market creates all sorts of niches for ‘specialist’ readers and genres (nautical tales, sporting novels, school stories, mystères)”(Moretti, 2003). With Poole’s idea that the digital humanities field brought us new tools for communication, Moretti’s discussion could have been continued into the digital forms of communication. Alex focuses on what Digital Humanities is, and how they have brought us new tools and forms of communication. For example Alex describes Digital Humanities as, “the term that can mean anything from media studies to electronic art..
-introduced new tools and promoted a many-to-many model of relationships among producers and consumers…an increasing number of programs, degrees, books, and so forth” (Poole, 2017). This could be related to Moretti because books today can be copied, or installed on many different devices such as the  Koodo reader, or the text could be online ready to be accessed by anyone at anytime. This however creates a high demand for new genre as well because books can be accessed easily.</p>
-<p>  With technology any information can be accessed at your fingertips with the press of a button. We rely on research from others, and collaboration with others who put this information online. In Moretti’s article he discusses how he had to ask others, and research all the facts, “here, the gathering of data is obviously crucial..I decided to rely entirely on other people’s work: since we are all eager to find what we are looking for, using the evidence gathered by other scholars, with completely different research programmes, is always a good corrective to one’s desires. So, first Brad Pasanek, at Stanford” (Moretti, 2003). With Day’s idea that innovative work is depended on various development partners, Moretti’s discussion could have been continued into the digital forms of communication and spread of information. George focuses on information that can be brought or used anywhere. For example George discusses that, “we live in a world of ubiquitous data. Devices are no longer fixed, but mobile..Building better sensing and dynamic capabilities throughout the organization” (Day, 2016). This could be related to Moretti because of how we still use information that either we collect ourselves, or information that was collected for us and placed online or in a book. Communication is always going to require collaboration and technology makes it easy to gather the information you need.</p>
-<p>	Technology, and literature can be considered as an extension of the human body. We need both as a form of communication, knowledge, and interactivity. Technology is constantly evolving allowing there to be new ways of storing, and displaying information. In conclusion Moretti does make a fair point about a shift in literature, “each art form travels down the inevitable road from birth to death..to mere recognition.. when form becomes a dull epigone which our senses register mechanically, a piece of merchandise not visible even to the buyer.’ (The passage is from an article col- lected in The Knight’s Move, and is quoted by Victor Erlich in Russian Formalism, New Haven 1955, p. 252.)” (Moretti, 2003). This point could have been extended to the digital scholarly forms of communication where, “authors search for evidence of the disciplinary contributions and interdisciplinary cohesion of research” (Raffaghelli, 2016) with the use of online tools, and help from Tara McPherson, George S. Day, and Alex H. Poole.
-</p>
-</body>
-<h2>Text analysis using Voyant Tools</h2>
-<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=c1da8608e8b9eca66ea77373674eb3a6'></iframe>
-<h2>Works Cited</h2>
-<p>
-Day, George S. "Adapting to Fast-Changing Arkets and Technologies." California Management 		Review, vol. 58, no. 4, 2016, EBSCOhost. Web. 8 Mar. 2017.
-</p>
-<p>
-McPherson, Tara. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., 		2012. Web. 8 Mar. 2017.
-</p>
-<p>
-Moretti, Franco. GRAPHS, MAPS, TREES Abstract Models for Literary History—1. N.p.: New 		left review , 2003. Print. Web 8. Mar. 2017.
-</p>
-<p>
- Poole, Alex H. "The Conceptual Ecology of Digital Humanities." Journal of Documentation, 		vol. 73, no. 1, 2017, EBSCOhost. Web. 8 Mar. 2017.
-</p>
-<p>
-Raffaghelli, Juliana E. "Different Views on Digital Scholarship: Separate Worlds or Cohesive 		Research Field?." Research in Learning Technology, Vol 24, 2016. EBSCOhost. Web. 7 		Mar. 2017.
-</p>
-<p>
-Text Analysis. Digital image. Voyant Tools. Stéfan Sinclair & Geoffrey Rockwell, 8 Mar. 2017. 		Web. 8 Mar. 2017.
-</p>
-<a href=" https://nicoleboccia.github.io/IASC2P02.github.io/">Back to home page</a> 
+# Academic Blog Post
 
+This is my academic blog post in response to Moretti's reading. Franco makes some very good points about why there was a shift in literature, but this discussion could have been extended.
+
+# Academic Blog Post
+
+## By: Nicole Boccia
+
+This is my academic blog post in response to Moretti's reading. Franco makes some very good points about why there was a shift in literature, but this discussion could have been extended.
+
+[continue reading](https://nicoleboccia.github.io/blogpost.github.io/)
+
+
+## Solo Presentation 
+[Slides]()
