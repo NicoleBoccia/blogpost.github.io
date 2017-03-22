@@ -8,7 +8,7 @@ This is my academic blog post in response to Moretti's reading. Franco makes som
 
 This is my academic blog post in response to Moretti's reading. Franco makes some very good points about why there was a shift in literature, but this discussion could have been extended.
 
-[continue reading](https://nicoleboccia.github.io/blogpost.github.io/)
+[continue reading](blog)
 
 
 ## Solo Presentation 
