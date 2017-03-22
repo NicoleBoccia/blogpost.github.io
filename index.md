@@ -12,4 +12,4 @@ This is my academic blog post in response to Moretti's reading. Franco makes som
 
 
 ## Solo Presentation 
-[Slides](reveal/slides.html)
+[Slides](https://nicoleboccia.github.io/presentation.github.io/.)
