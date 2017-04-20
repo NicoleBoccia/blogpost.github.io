@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <h1>Academic Blog Post</h1>
 <h2>By: Nicole Boccia</h2>
