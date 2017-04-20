@@ -1,6 +1,6 @@
 <!doctype html>
- <a href="https://nicoleboccia.github.io/portfolio/">back</a>
 <html>
+<a href="https://nicoleboccia.github.io/portfolio/">Back</a>
 <h1>Academic Blog Post</h1>
  <h2> This is my academic blog post in response to Moretti's reading. Franco makes some very good points about why there was a shift in literature, but this discussion could have been extended.</h2>
  <h1>Academic Blog Post</h1>
