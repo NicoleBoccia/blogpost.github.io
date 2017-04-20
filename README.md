@@ -8,6 +8,5 @@
   <p>
   <a href="https://nicoleboccia.github.io/blogpost.github.io/">continue reading</a>
   </p>
-  ##Solo Presentation 
   <a href="https://nicoleboccia.github.io/portfolio/">Back to Portfolio</a>
 </html>
